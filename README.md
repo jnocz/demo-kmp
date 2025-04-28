@@ -1,5 +1,7 @@
-Kotlin Multiplatform project targeting Android, iOS.\n
+Kotlin Multiplatform project targeting Android, iOS.
+
 This repository is DEMO version of the existing application https://play.google.com/store/apps/details?id=eu.bazarsearch.app
+
 For DEMO purposes is online search DISABLED, database is prepopulated with sample search results.
 
 * `/shared` is for code that is shared across Compose Multiplatform applications.

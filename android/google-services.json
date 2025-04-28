@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560071515493",
+    "project_id": "fir-kmp-aeeac",
+    "storage_bucket": "fir-kmp-aeeac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560071515493:android:1786b2d9469d4eccee558c",
+        "android_client_info": {
+          "package_name": "eu.bazarsearch.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXn25px9DI_s6ZCo2rmKAtR54C2EVeA0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

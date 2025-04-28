@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Bazarové vyhledávání</string>
+    <string name="app_dashboard_name">Bazarové vyhledávání</string>
+
+    <!--*****************************************************************************************-->
+    <!-- DIALOGS                                                                                 -->
+    <!--*****************************************************************************************-->
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_retry">Znovu</string>
+    <string name="dialog_continue">Pokračovat</string>
+    <string name="dialog_please_wait">Prosím čekejte…</string>
+    <string name="dialog_confirm">Potvrdit</string>
+    <string name="dialog_save">Uložit</string>
+
+    <string name="dialog_operation_failed_title">Požadavek selhal</string>
+    <string name="dialog_operation_failed_text">Zkontrolujte vaše internetové připojení a zkuste to znova.</string>
+    <string name="dialog_request_failed_title">Požadavek selhal</string>
+    <string name="dialog_request_failed_text">Zkontrolujte vaše internetové připojení a zkuste to znova.</string>
+    <string name="dialog_request_failed_offline_title">Vypadá to, že nejste připojeni k internetu</string>
+    <string name="dialog_request_failed_offline_text">Zapněte vaše mobilní připojení a zkuste to prosím znovu.</string>
+
+    <!--*****************************************************************************************-->
+    <!-- ERROR VIEW DIALOG                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="generic_error_title">Oops!</string>
+    <string name="generic_error_text">Něco se pokazilo, zkuste to prosím znovu.</string>
+    <string name="app_offline">Vypadá to, že nejste připojeni k internetu.</string>
+    <string name="app_offline_description">Connection was lost before we could download required data. Check your internet connection and try again.</string>
+    <string name="error_app_broken">Oops!</string>
+    <string name="error_app_broken_description">Něco se pokazilo, zkuste to prosím znovu.</string>
+    <string name="error_app_disconnected">Odpojeno</string>
+    <string name="error_are_you_conected_to_internet">\nJste připojeni k internetu?</string>
+
+
+    <!--*****************************************************************************************-->
+    <!-- MISC                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="default_notification_channel_id">CHANNEL_ID</string>
+
+    <string name="roboto_regular">sans-serif</string>
+    <string name="roboto_light">sans-serif-light</string>
+    <string name="roboto_condensed">sans-serif-condensed</string>
+    <string name="roboto_thin">sans-serif-thin</string>
+    <string name="roboto_medium">sans-serif-medium</string>
+
+    <!--*****************************************************************************************-->
+    <!-- TABS                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="tab_item_search">Vyhledat</string>
+    <string name="tab_item_favorite">Oblíbené</string>
+    <string name="tab_item_settings">Nastavení</string>
+    <string name="tab_item_history">Historie</string>
+
+    <!--*****************************************************************************************-->
+    <!-- SEARCH                                                                                  -->
+    <!--*****************************************************************************************-->
+    <string name="bazar_search_text">Vyhledávání na bazarech</string>
+    <string name="searching">Vyhledávám na</string>
+    <string name="search">Vyhledat na bazarech</string>
+    <string name="start_searching">Zadejte do vyhledávacího pole to co hledáte</string>
+    <string name="search_input_text">Hledejte…</string>
+    <string name="settings">Nastavení</string>
+    <string name="favorites">Oblíbené</string>
+    <string name="apps_no_records">Žádné výsledky</string>
+    <string name="added_to_favorites">Přidáno do oblíbených!</string>
+    <string name="no_records_found">Nebyly nalezeny žádné výsledky, možnosti vyhledávání můžete upravit v Nastavení</string>
+    <string name="in_location">v lokalitě %1$s</string>
+    <string name="in_price_from">od %1$s</string>
+    <string name="in_price_to">do %1$s</string>
+    <string name="price">Cena:</string>
+    <string name="inserted_on_bazaar_text">Přidáno: </string>
+    <string name="price_not_specified">Nespecifikována</string>
+    <string name="detail">Detail</string>
+
+    <!--*****************************************************************************************-->
+    <!-- SETTINGS                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="search_bazos_text">Prohledávat Bazos.cz</string>
+    <string name="search_bazos_sk_text">Prohledávat Bazos.sk</string>
+    <string name="search_bazos_pl_text">Prohledávat Bazos.pl</string>
+    <string name="search_olx_pl_text">Prohledávat Olx.pl</string>
+    <string name="search_sprzedajemy_pl_text">Prohledávat Sprzedajemy.pl</string>
+    <string name="search_sbazar_text">Prohledávat SBazar.cz</string>
+    <string name="search_hudebni_bazar_text">Prohledávat\nHudebníbazar.cz</string>
+    <string name="search_annonce_text">Prohledávat Annnonce.cz</string>
+    <string name="search_hyperinzerce_text">Prohledávat\nHyperinzerce.cz</string>
+    <string name="search_bazarcz_text">Prohledávat Bazar.cz</string>
+    <string name="search_bikeforum_text">Prohledávat Bike-forum.cz</string>
+    <string name="search_antik_olomouc_text">Prohledávat\nAntikvariatolomouc.cz</string>
+    <string name="search_avizo_text">Prohledávat Avizo.cz</string>
+    <string name="search_bazarsk_text">Prohledávat Bazar.sk</string>
+    <string name="search_mimibazar_text">Prohledávat Mimibazar.cz</string>
+    <string name="search_aukro_text">Prohledávat Aukro.cz</string>
+    <string name="search_ifaunacz_text">Prohledávat IFauna.cz</string>
+    <string name="search_ebay_kleinanzeigen_de_text">Prohledávat\nEbay-Kleinanzeigen.de</string>
+    <string name="search_subito_it_text">Prohledávat Subito.it</string>
+    <string name="search_poshmark_com_text">Prohledávat Poshmark.com</string>
+    <string name="search_poshmark_ca_text">Prohledávat Poshmark.ca</string>
+    <string name="search_viva_street_co_uk_text">Prohledávat Vivastreet.co.uk</string>
+    <string name="location">Vyplňte lokalitu</string>
+    <string name="price_from">Cena OD</string>
+    <string name="price_to">Cena DO</string>
+    <string name="settings_czech_republic">Česká republika</string>
+    <string name="settings_slovak_republic">Slovenská republika</string>
+    <string name="settings_poland">Polsko</string>
+    <string name="settings_de">Německo</string>
+    <string name="settings_it">Itálie</string>
+    <string name="settings_us">USA</string>
+    <string name="settings_ca">Kanada</string>
+    <string name="settings_uk">Velká Británie</string>
+
+    <!--*****************************************************************************************-->
+    <!-- HISTORY                                                                                  -->
+    <!--*****************************************************************************************-->
+    <string name="history">Historie vyhledávání</string>
+    <string name="no_history_found">Zatím jste nic nevyhledávali…</string>
+
+    <!--*****************************************************************************************-->
+    <!-- FAVORITES                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="no_favorites_found">Přidejte sem něco - při vyhledávání pomocí srdíčka</string>
+
+    <!--*****************************************************************************************-->
+    <!-- ABOUT                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="about">O aplikaci</string>
+    <string name="actual_app_version_temp">1.0.0-beta-001</string>
+    <string name="evaluate_on_play_store">Aplikaci pro vás vyvíjíme v našem volném čase, pokud chcete podpořit její další rozvoj, tak nám můžete přispět na Buy me a coffee. Děkujeme!\nMůžete ji také ohodnotit na Play store.\nPokud máte k aplikaci nějaké připomínky nebo návrhy ke zlepšení, tak nám pošlete <u><a href="mailto:searchbazars@gmail.com">E-mail</a></u>.</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="share">Sdílet s přáteli</string>
+
+
+    <!--*****************************************************************************************-->
+    <!-- DONATE                                                                                  -->
+    <!--*****************************************************************************************-->
+
+    <string name="donate">Podpořit</string>
+    <string name="donate_title">Líbí se vám naše aplikace?</string>
+    <string name="donate_on_buy_me_a_coffee">Vyvíjíme ji pro vás v našem volném čase, pokud chcete podpořit její další rozvoj, tak nám můžete přispět na https://www.buymeacoffee.com/bazarsearch Děkujeme!</string>
+    <string name="donate_link">https://www.buymeacoffee.com/bazarsearch</string>
+
+</resources>

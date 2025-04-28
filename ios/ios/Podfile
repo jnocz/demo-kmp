@@ -1,0 +1,9 @@
+use_frameworks!
+
+install! 'cocoapods', :deterministic_uuids => false
+
+target 'ios' do
+    platform :ios, '15.5'
+    pod 'shared', :path => '../shared/'
+    #pod 'SwiftLint'
+end

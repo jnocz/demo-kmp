@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ filepaths.xml
+  ~
+  ~ Created by Josef Novák (novak.josef@gmail.com)
+  ~ Copyright (c) 2024. All rights reserved.
+  ~
+  -->
+
+<paths>
+    <cache-path
+        name="cache_root"
+        path="/" />
+    <cache-path
+        name="cache_images"
+        path="images/" />
+    <files-path
+        name="files_images"
+        path="images/" />
+    <files-path
+        name="files_documents"
+        path="documents/" />
+    <external-path
+        name="share_path"
+        path="Download/bazar_search/" />
+    <external-path
+        name="external_root"
+        path="/" />
+    <external-path
+        name="external_root"
+        path="images" />
+    <external-path
+            name="bazar_search"
+            path="Download/bazar_search" />
+    <external-path
+        name="external_files"
+        path="." />
+</paths>
